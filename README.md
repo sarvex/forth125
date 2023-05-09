@@ -1,6 +1,6 @@
-C
+Forth
 ======
-Trying to complete 125 projects in C
+Trying to complete 125 projects in Forth
 
 Numbers
 ---------
